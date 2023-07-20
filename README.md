@@ -6,6 +6,7 @@ Connect Four is a two players game which takes place on a 4x4 board. Each player
 
 ## Screenshots
 ![Screenshot 2023-07-19 204207](https://github.com/karthiikJR/connect-4/assets/115890844/bf5af8c3-73c2-4843-9f1e-04418438bc66)
+![Screenshot 2023-07-20 093531](https://github.com/karthiikJR/connect-4/assets/115890844/60a2abbd-1a40-45e1-a2aa-3bb448d53003)
 ![Screenshot 2023-07-19 204219](https://github.com/karthiikJR/connect-4/assets/115890844/db57dc9d-74a4-475b-82ea-030c72366c50)
 ![Screenshot 2023-07-19 204232](https://github.com/karthiikJR/connect-4/assets/115890844/6a1db297-c1a2-4c46-9923-a046046e0922)
 
